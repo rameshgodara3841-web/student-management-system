@@ -1,2 +1,12 @@
-# student-management-system
-console-based Student Management System developed in C++ with features like add, delete and search records.
+# Student Management System
+
+This is a simple Python-based Student Management System.
+
+## Features
+- Add student
+- View students
+- Delete student
+
+## Run Project
+```bash
+
